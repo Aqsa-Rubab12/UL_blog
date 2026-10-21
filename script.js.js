@@ -1,1 +1,0 @@
-console.log("UL BLOG WEBSITE is running!");
